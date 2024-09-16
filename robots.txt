@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anbospiqu.github.io/sitemap.html.gz
+Sitemap: https://anbospiqu.github.io/app/sitemap.html.gz
+Sitemap: https://anbospiqu.github.io/assets/sitemap.html.gz
+Sitemap: https://anbospiqu.github.io/css/sitemap.html.gz
+Sitemap: https://anbospiqu.github.io/includes/sitemap.html.gz
+Sitemap: https://anbospiqu.github.io/item/sitemap.html.gz
+Sitemap: https://anbospiqu.github.io/src/sitemap.html.gz
